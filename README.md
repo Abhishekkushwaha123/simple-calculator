@@ -1,1 +1,1 @@
-# simple-calculeter
+# simple-calculator
